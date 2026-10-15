@@ -1,0 +1,13 @@
+output
+SMART COLLEGE MANAGEMENT SYSTEM
+================================
+Student ID: 101
+Name: Arun
+Department: AI&DS
+Marks: 90
+--------------------
+Student ID: 102
+Name: Priya
+Department: CSE
+Marks: 85
+--------------------
